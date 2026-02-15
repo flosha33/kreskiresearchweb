@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:www.summitllc.us)"
+      "WebFetch(domain:www.summitllc.us)",
+      "WebFetch(domain:www.bcg.com)"
     ]
   }
 }
